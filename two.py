@@ -3,3 +3,4 @@ def haha():
 
 def hello():
     print(3333)
+print(456)
